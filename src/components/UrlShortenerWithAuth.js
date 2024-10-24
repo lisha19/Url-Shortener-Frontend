@@ -258,9 +258,7 @@ const UrlShortenerWithAuth = () => {
 
 
 <div>
-{/* <button  className="btn btn-primary btn-block"  onClick={()=>{
-                            setLongUrlBool(true)
-                        }}>Get long Url</button> */}
+
                         
                     </div>
 
